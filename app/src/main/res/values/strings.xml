@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MombasaCity</string>
     <string name="beach">Beach</string>
+    <string name="delicacies">Delicacies</string>
+    <string name="transport">Transport</string>
+    <string name="people">People</string>
 </resources>
